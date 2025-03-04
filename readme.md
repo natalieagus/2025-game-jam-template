@@ -16,7 +16,7 @@ _(Briefly describe your game’s premise, setting, and goal. What is the game ab
 
 ## **Core Mechanic**
 
-_(What is the core mechanic? Describe the main action players perform repeatedly that drives gameplay. Example: "Jumping between platforms to avoid obstacles" or "Controlling a spaceship to dodge and shoot enemies.")_
+_(What is the core mechanic? Use the core mechanics described in class. Then you can describe the main action players perform repeatedly that drives gameplay. Example: "Jumping between platforms to avoid obstacles" or "Controlling a spaceship to dodge and shoot enemies.")_
 
 ## **Game Procedure & Controls**
 
