@@ -6,6 +6,7 @@ _(Add some screenshots here showcasing your game)_
 ## **How to Run**
 
 - System requirements: Operating System, controls, etc
+- Unity Version: X.Y.Z
 - **Executable file** of the game to download _(Ensure it is playable without extra setup.)_
 
 You should provide a link to your **Full gameplay recording** showing mechanics, UI/UX, and polish. _(A complete playthrough is required.)_ here.
