@@ -1,4 +1,4 @@
-## **Game Title**
+# **Game Title**
 
 _(Enter your game's title here.)_
 _(Add some screenshots here showcasing your game)_
@@ -9,9 +9,15 @@ _(Add some screenshots here showcasing your game)_
 - Unity Version: X.Y.Z
 - **Executable file** of the game to download _(Ensure it is playable without extra setup.)_
 
+### Gameplay Recording
+
 You should provide a link to your **Full gameplay recording** showing mechanics, UI/UX, and polish. _(A complete playthrough is required.)_ here.
 
-## **Game Description**
+## Chosen Theme
+
+_(State your **chosen theme** clearly here. This will affect how we grade your work)_
+
+## Game Description
 
 _(Briefly describe your game’s premise, setting, and goal. What is the game about? What experience should the player have?)_
 
@@ -74,3 +80,7 @@ Example:
 - **Grounding the Player**: The environment provides strong visual cues to help players understand mechanics naturally.
 - **Meaningful Choices**: Players must decide between fighting stronger enemies for rewards or avoiding them for safety.
 - **Player Empathy**: The story and mechanics are designed to create an emotional connection with the character.
+
+## Credits
+
+Please credit any work (art form, ideas, etc) you use in this exam.
