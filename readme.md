@@ -81,6 +81,10 @@ Example:
 - **Meaningful Choices**: Players must decide between fighting stronger enemies for rewards or avoiding them for safety.
 - **Player Empathy**: The story and mechanics are designed to create an emotional connection with the character.
 
+## Code Cleanliness Efforts (Bonus)
+
+_Outline your code architecture here and attempt to organise your code that suits your game. Be concise and clear. Leave this section blank if you are not doing this bonus part._
+
 ## Credits
 
 Please credit any work (art form, ideas, etc) you use in this exam.
